@@ -11,5 +11,9 @@ def join_nested_strings(src)
     end
     i += 1
   end
+<<<<<<< HEAD
 strings.join(" ")
+=======
+strings
+>>>>>>> 4e9709bdf7ae9c1cf1561e868dc2314af8d76d2d
 end
